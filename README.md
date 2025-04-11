@@ -5,4 +5,4 @@
 -  passionate about coding and cooking.
 -  <!-- github readme stats->
 
-[![Sree's GitHub stats](https://github-readme-stats.vercel.app/api?username=toxicy57)](https://github.com/toxicy57/github-readme-stats)
+(https://github-readme-stats.vercel.app/api?username=toxicy57)(https://github.com/toxicy57/github-readme-stats)
